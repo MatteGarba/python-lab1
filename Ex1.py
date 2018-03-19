@@ -7,5 +7,5 @@ print("Insert second number:")
 num2 = input()
 
 sum = int(num1)+int(num2)
-print("The sum is:", sum)
+print("The sum is:", sum, end='')
 
